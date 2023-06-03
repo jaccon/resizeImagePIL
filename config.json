@@ -1,0 +1,9 @@
+[
+  {
+    "destinationDirectory" : "./Resized",
+    "sourceDirectory" : "./Original",
+    "resizeWidth" : "800",
+    "resizeHeight" : "600",
+    "enableLogs" : "no"
+  }
+]
