@@ -1,0 +1,7 @@
+{
+  "width": 500,
+  "height": 500,
+  "source_directory": "Photos",
+  "destination_directory": "Resized",
+  "compression_quality": 85
+}
